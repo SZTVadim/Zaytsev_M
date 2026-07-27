@@ -40,7 +40,7 @@ print(fruits_text)
 
 text_3 = "Я изучаю Python. Python - это круто!"
 
-print(text_3. replace("Python", "Java"))
+print(text_3.replace("Python", "Java"))
 
 # Задание 6: Поиск и подсчет
 
