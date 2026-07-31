@@ -31,7 +31,7 @@ print(text_2.rstrip())
 
 fruits = "яблоко,банан,апельсин,груша"
 fruits_list = fruits.split(",")
-fruits_text = "|".join(fruits_list)
+fruits_text = " | ".join(fruits_list)
 
 print(fruits_list)
 print(fruits_text)
