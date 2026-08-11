@@ -10,7 +10,8 @@ fruits.extend(["апельсин","груша"])
 print(fruits)
 
 fruits.insert(1,"виноград")
-print(fruits, "\n")
+print(fruits)
+print("\n")
 
 # Задание 2. Удаление элементов из списка
 
