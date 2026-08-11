@@ -6,10 +6,10 @@ print(fruits)
 fruits.append("банан")
 print(fruits)
 
-fruits.extend(["апельсин","груша"])
+fruits.extend(["апельсин", "груша"])
 print(fruits)
 
-fruits.insert(1,"виноград")
+fruits.insert(1, "виноград")
 print(fruits)
 print("\n")
 
